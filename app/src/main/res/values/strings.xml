@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ParqueaderoUco</string>
+    <string name="bienvenido">Bienvenido (a) escoja una opción</string>
+    <string name="configurar_tarifa">Configuración de tarifas</string>
+    <string name="listado_tarifas">Listado de tarifas</string>
+    <string name="guardar">Guardar</string>
+    <string name="digite_valor_tarifa">Digite un valor de tarifa</string>
+    <string name="digite_nombre_tarifa">Digite nombre tarifa</string>
+    <string name="registro_tarifa">Registrar tarifa</string>
+    <string name="menu_principal">Menu Principal</string>
+    <string name="sin_tarifas">No hay tarifas registradas</string>
+    <string name="tarifas">Tarifas</string>
+    <string name="requerido">El valor es requerido</string>
+    <string name="successfully">Se ha creado correctamente</string>
+    <string name="updateSuccess">Se ha registrado la salida correctamente</string>
+    <string name="actualizar_tarifa">Actualizar Tarifa</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="registrar_Ingreso">Registrar Ingreso</string>
+    <string name="registrar_salida">Registrar Salida</string>
+    <string name="ingrese_placa">Digite la placa</string>
+    <string name="total_Pagar">Total a pagar</string>
+    <string name="cantidad_horas">Cantidad Horas</string>
+    <string name="registrar_ingreso_salida">Registrar Ingresos y salidas</string>
+    <string name="buscar">Buscar</string>
+    <string name="debe_seleccionar_tarifa">Debe seleccionar una tarifa</string>
+    <string name="operacion_exitosa">La información se ha guardado exitosamente</string>
+    <string name="sin_movimientos">No hay movimientos</string>
+    <string name="ConfiguracionMovimientos">Configuración de Movimientos</string>
+    <string name="Movimientos">Movimientos</string>
+    <string name="fechaInicial">Seleccione fecha inicial</string>
+    <string name="fechaFinal">Seleccione fecha final</string>
+    <string name="movimientos">Movimientos</string>
+
+</resources>
